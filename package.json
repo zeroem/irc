@@ -1,0 +1,17 @@
+{
+  "author": "Darrell Hamilton",
+  "name": "irc",
+  "description": "IRC Client/Server Library",
+  "version": "0.0.0",
+  "homepage": "https://github.com/zeroem/irc",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/zeroem/irc.git"
+  },
+  "main": "index.js",
+  "engines": {
+    "node": "~v0.5.0-pre"
+  },
+  "dependencies": {},
+  "devDependencies": {}
+}
